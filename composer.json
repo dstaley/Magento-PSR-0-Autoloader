@@ -11,9 +11,6 @@
                 "name":"Damian Luszczymak"
             }
         ],
-    "require": {
-        "magento-hackathon/magento-composer-installer": "*"
-    },
     "require-dev": {
         "firegento/mage-ci": "master-dev",
         "phpunit/phpunit": "~4.4"
